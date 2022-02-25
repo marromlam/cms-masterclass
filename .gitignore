@@ -1,0 +1,17 @@
+
+build/detectors.aux
+build/detectors.fdb_latexmk
+build/detectors.fls
+build/detectors.log
+build/detectors.nav
+build/detectors.out
+build/detectors.pdf
+build/detectors.snm
+build/detectors.synctex.gz
+build/detectors.toc
+build/detectors.upa
+build/detectors.xdv
+gpx
+.DS_Store
+.termpdf.log
+detectors.pdf
